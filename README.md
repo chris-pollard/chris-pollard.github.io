@@ -1,14 +1,14 @@
-# Chris Pollard **work in progress**
+# Chris Pollard
 
 _Software engineer and bitcoin community organiser based in Melbourne 🇦🇺_ <br>
 
 [Email](mailto:cpollard@proton.me) / [Website](https://workwithcrispy.com/) / [LinkedIn](https://www.linkedin.com/in/chris-pollard-au/) / [GitHub](https://github.com/chris-pollard/) 
 
-## 👩🏼‍💻 Engineering Experience
+## 👨‍💻 Engineering Experience
 
 **Fullstack Engineer** @ [Beyond Essential](https://bes.au) _(September 20221 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
+End to end data platform for health organisations in low-income settings.
+  - Founding member of the Visualisation Builder team.
   - Wrote code in multiple architecture layers, including the application core and integrations with external services
   - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
@@ -89,7 +89,7 @@ Magazine for socially conscious young people who want to create their own media.
 
 ## 📌 Volunteering
 
-**EU Conference Team Member** @ [Write the Docs](https://www.writethedocs.org/conf/) _(Jul 2019 - Present)_<br>
+**Melbourne Bitcoin community organiser** @ [Write the Docs](https://www.writethedocs.org/conf/) _(Jul 2019 - Present)_<br>
 Technology conference focused on documentation systems, tech writing theory, and information delivery.
   - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
   - Introduced speakers and faciliated Q&A sessions
@@ -116,48 +116,18 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
   - Fostered an inclusive community and enforced the code of conduct
   - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
   <br><br>
-  
-
-## 🎤 Public Speaking
-    
-### Recent Appearances
-
-- **JSHeroes** live in Cluj 🇷🇴 _(Jun 9, 2022)_
-<br>[Humanizing Your Documentation](https://www.youtube.com/watch?v=yE7eOoXTZtM)<br>
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
-  
-## 🏆 Accomplishments
-
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
-
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
 
 ## 💬 Languages
 
 🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
+ **French**: Beginner
+ **Spanish**: Beginner
 <br><br>
 
 ## 👩🏼‍🎓 Education
 
 **12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+[Codecademy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
 
 **Bachelor of Arts** in Journalism and Media Studies<br>
 [Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
