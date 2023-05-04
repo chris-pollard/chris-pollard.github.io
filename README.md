@@ -9,20 +9,16 @@ _In 2021, I moved from project management into a technical-focussed career. I ca
 ## 👨‍💻 Engineering Experience
 
 **Fullstack Engineer** @ [Beyond Essential](https://bes.au) _(September 20221 - Present)_ <br>
-End to end data platform for health organisations in low-income settings.
+Free and Open Source end-to-end data platform for health organisations in low-income settings.
   - Founding member of the Visualisation Builder team.
   - Wrote code in multiple architecture layers, including the application core and integrations with external services
   - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
   - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, Web Components (material-ui).
+  - **_Platforms used:_** AWS (console, EC2, S3, RDS, Lambda), Github
 <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
+ 
+ **12-week intensive coding course** focused on client and server side web development<br>
+[Codecademy](https://generalassemb.ly/) - Melbourne, Australia _( May 2021 - July 2021)_ <br>
 
 ## 📌 Volunteering
 
@@ -41,9 +37,6 @@ Technology conference focused on documentation systems, tech writing theory, and
 <br><br>
 
 ## 👩🏼‍🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[Codecademy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
 
 **Bachelor of Arts** in Journalism and Media Studies<br>
 [Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
