@@ -13,7 +13,7 @@ End to end data platform for health organisations in low-income settings.
   - Founding member of the Visualisation Builder team.
   - Wrote code in multiple architecture layers, including the application core and integrations with external services
   - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+  - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, Web Components (material-ui).
 <br><br>
 
 **Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
