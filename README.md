@@ -1,7 +1,7 @@
 # Chris Pollard
 
 ### _Software engineer and bitcoin community organiser based in Melbourne 🇦🇺_ <br>
-Time zone: GMT + 11
+Time zone: [GMT + 11](https://time.is/compare)
 
 **#nodejs  #postgres  #typescript  #reactjs  #material-ui  #expressjs  #sql  #knex #python**
 
