@@ -36,9 +36,9 @@ Free and Open Source end-to-end data platform for health organisations in low-in
 <br>
 ## 💬 Languages
 
-🇦🇺 **English**: Native <br>
- **French**: Beginner <br>
- **Spanish**: Beginner
+🇬🇧 **English**: Native <br>
+🇫🇷 **French**: Beginner <br>
+🇪🇸 **Spanish**: Beginner
 <br>
 ## 👨🏻‍🎓 Education and Archived History
 
