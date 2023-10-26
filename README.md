@@ -1,34 +1,39 @@
 # Chris Pollard
 
-_Software engineer and bitcoin community organiser based in Melbourne 🇦🇺_ <br>
+### _Software engineer and bitcoin community organiser based in Melbourne 🇦🇺_ <br>
 Time zone: GMT + 11
 
-**#nodejs #postgres #typescript #reactjs #material-ui #expressjs #sql #python**
+**#nodejs  #postgres  #typescript  #reactjs  #material-ui  #expressjs  #sql  #knex #python**
 
 _In 2021, I moved from project management into a technical-focussed career. I care about building elegant, effective, software that expands individual's freedom and drives responsibility/decision-making to the edges._ <br>
 
 [Email](mailto:cpollard@proton.me) / [LinkedIn](https://www.linkedin.com/in/chris-pollard-au/) / [GitHub](https://github.com/chris-pollard/) 
 
-## 👨‍💻 Engineering Experience
+## 👨‍💻 Experience
 
-**Fullstack Engineer** @ [Beyond Essential](https://bes.au) _(September 20221 - Present)_ <br>
+### **Fullstack Engineer** @ [Beyond Essential](https://bes.au) _(September 20221 - Present)_ <br>
 Free and Open Source end-to-end data platform for health organisations in low-income settings.
-  - Founding member of the Visualisation Builder team.
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, Web Components (material-ui).
+  - Mono repo
+  - Backend servers, front end react
+  - Worked with both redux and reactquery (aka Tan Query)
+  - Worked with external api services
+  - Used Typescript (and love it)
+  - Became familiar with recursive functions
+  - Started learning to write Lambda functions on AWS
+  - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, Web Components (material-ui), expressjs, knex.
   - **_Platforms used:_** AWS (console, EC2, S3, RDS, Lambda), Github
 <br><br>
- 
- **12-week intensive coding course** focused on client and server side web development<br>
-[Codecademy](https://generalassemb.ly/) - Melbourne, Australia _( May 2021 - July 2021)_ <br>
 
-## 📌 Volunteering
+## 📌 Volunteering and Hobbies
+
+**Node Running** since 2021 (started on Umbrel, graduated to a headless ubuntu server on a beautiful little NUC.
 
 **Co-organiser** @ [Bitcoin Melbourne](https://bitcoinonly.melbourne) _(May 2022 - Present)_<br>
-Technology conference focused on documentation systems, tech writing theory, and information delivery.
-  - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
-  - Introduced speakers and faciliated Q&A sessions
+
+**Running a BTCPayServer and store** @ [Bitcoin Only Store](https://bitcoinonly.store) _(April 2022 - Present)_<br>
+
+**Tinkering** with microPython and fun little devices.
+
   <br><br>
 
 
@@ -39,13 +44,13 @@ Technology conference focused on documentation systems, tech writing theory, and
  **Spanish**: Beginner
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👩🏼‍🎓 Education and Archived History
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+ **12-week Software Engineering Course course** focused on client and server side web development<br>
+[Codecademy](https://generalassemb.ly/) - Melbourne, Australia _( May 2021 - July 2021)_ <br>
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
+**Diploma of Education (Teaching)**<br>
+La Trobe University - Melbourne, Australia _(2010 - 2011)_
 
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Bachelor of Performing Arts*<br>
+Monash University - Melbourne, Australia _(2004 - 2007)_
