@@ -4,7 +4,7 @@ _Software engineer and bitcoin community organiser based in Melbourne 🇦🇺_ 
 
 _In 2021, I moved from project management into a technical-focussed career. I care about building elegant, effective, software that expands individual's freedom and drives responsibility/decision-making to the edges._ <br>
 
-[Email](mailto:cpollard@proton.me) / [Website](https://workwithcrispy.com/) / [LinkedIn](https://www.linkedin.com/in/chris-pollard-au/) / [GitHub](https://github.com/chris-pollard/) 
+[Email](mailto:cpollard@proton.me) / [LinkedIn](https://www.linkedin.com/in/chris-pollard-au/) / [GitHub](https://github.com/chris-pollard/) 
 
 ## 👨‍💻 Engineering Experience
 
@@ -31,7 +31,7 @@ Technology conference focused on documentation systems, tech writing theory, and
 
 ## 💬 Languages
 
-🇺🇸 **English**: Native <br>
+🇦🇺 **English**: Native <br>
  **French**: Beginner
  **Spanish**: Beginner
 <br><br>
