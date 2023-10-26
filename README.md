@@ -5,7 +5,7 @@ Time zone: [GMT + 11](https://time.is/compare)
 
 **#nodejs  #postgres  #typescript  #reactjs  #material-ui  #expressjs  #sql  #knex #python**
 
-_In 2021, I moved from project management into a technical-focussed career. I care about building elegant, effective, software that expands individual's freedom and drives responsibility/decision-making to the edges._ <br>
+_In 2021, I moved from project management into a technical-focussed career. I care about building elegant, effective software that expands individual freedom and drives responsibility/decision-making to the edges._ <br>
 
 [Email](mailto:cpollard@proton.me) / [LinkedIn](https://www.linkedin.com/in/chris-pollard-au/) / [GitHub](https://github.com/chris-pollard/) 
 
@@ -33,18 +33,14 @@ Free and Open Source end-to-end data platform for health organisations in low-in
 **Running a BTCPayServer and store** @ [Bitcoin Only Store](https://bitcoinonly.store) _(April 2022 - Present)_<br>
 
 **Tinkering** with microPython and fun little devices.
-
-  <br><br>
-
-
+<br>
 ## 💬 Languages
 
 🇦🇺 **English**: Native <br>
- **French**: Beginner
+ **French**: Beginner <br>
  **Spanish**: Beginner
-<br><br>
-
-## 👩🏼‍🎓 Education and Archived History
+<br>
+## 👨🏻‍🎓 Education and Archived History
 
  **12-week Software Engineering Course course** focused on client and server side web development<br>
 [Codecademy](https://generalassemb.ly/) - Melbourne, Australia _( May 2021 - July 2021)_ <br>
@@ -52,5 +48,6 @@ Free and Open Source end-to-end data platform for health organisations in low-in
 **Diploma of Education (Teaching)**<br>
 La Trobe University - Melbourne, Australia _(2010 - 2011)_
 
-**Bachelor of Performing Arts*<br>
+**Bachelor of Performing Arts**<br>
 Monash University - Melbourne, Australia _(2004 - 2007)_
+<br>
