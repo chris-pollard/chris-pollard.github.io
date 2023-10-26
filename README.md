@@ -26,7 +26,9 @@ Free and Open Source end-to-end data platform for health organisations in low-in
 
 ## 📌 Volunteering and Hobbies
 
-**Node Running** since 2021 (started on Umbrel, graduated to a headless ubuntu server on a beautiful little NUC.
+**Node Running** since 2021 (started on Umbrel, graduated to a headless ubuntu server on a beautiful little NUC.<br>
+
+**Secretary** @ Victorian Bitcoin Technology Club _(Incorporated Oct 2023)_<br>
 
 **Co-organiser** @ [Bitcoin Melbourne](https://bitcoinonly.melbourne) _(May 2022 - Present)_<br>
 
