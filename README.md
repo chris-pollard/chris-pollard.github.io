@@ -1,6 +1,7 @@
 # Chris Pollard
 
 _Software engineer and bitcoin community organiser based in Melbourne 🇦🇺_ <br>
+*Time zone: GMT + 11*
 
 _In 2021, I moved from project management into a technical-focussed career. I care about building elegant, effective, software that expands individual's freedom and drives responsibility/decision-making to the edges._ <br>
 
