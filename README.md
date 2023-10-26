@@ -11,7 +11,7 @@ _In 2021, I moved from project management into a technical-focussed career. I ca
 
 ## 👨‍💻 Experience
 
-### **Fullstack Engineer** @ [Beyond Essential](https://bes.au) _(September 20221 - Present)_ <br>
+### **Fullstack Engineer** @ [Beyond Essential](https://bes.au) _(September 2021 - Present)_ <br>
 Free and Open Source end-to-end data platform for health organisations in low-income settings.
   - Mono repo
   - Backend servers, front end react
