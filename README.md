@@ -45,7 +45,7 @@ Free and Open Source end-to-end data platform for health organisations in low-in
 ## 👨🏻‍🎓 Education and Archived History
 
  **12-week Software Engineering Course course** focused on client and server side web development<br>
-[Codecademy](https://generalassemb.ly/) - Melbourne, Australia _( May 2021 - July 2021)_ <br>
+[General Assembly](https://generalassemb.ly/) - Melbourne, Australia _( May 2021 - July 2021)_ <br>
 
 **Diploma of Education (Teaching)**<br>
 La Trobe University - Melbourne, Australia _(2010 - 2011)_
