@@ -30,19 +30,6 @@ Delivered major projects, including the college teaching and learning response t
 ### **IT Project Manager** @ [Victorian Tertiary Admissions Centre](https://rmit.edu.au) _(December 2015 - March 2020)_
 Managed the development of a SaaS product, worked closely with lead software developer, business analyst and testers to frame and complete user stories.
 
-## 👨🏻‍🎓 Education and Archived History
-
-**12-week Software Engineering Immersive** <br>
-A three month full-time immersive course focused on client and server side web development (JavaScript primarily, with some Ruby)<br>
-[General Assembly](https://generalassemb.ly/) - Melbourne, Australia _(May 2021 - July 2021)_ <br>
-
-**Diploma of Education (Teaching)**<br>
-La Trobe University - Melbourne, Australia _(2010 - 2011)_
-
-**Bachelor of Arts**<br>
-Monash University - Melbourne, Australia _(2004 - 2007)_
-<br>
-
 ## 📌 Volunteering and Hobbies
 
 **Secretary** @ Victorian Bitcoin Technology Club _(Incorporated Oct 2023)_<br>
@@ -56,5 +43,18 @@ Monash University - Melbourne, Australia _(2004 - 2007)_
 🇬🇧 **English**: Native <br>
 🇫🇷 **French**: Beginner <br>
 🇪🇸 **Spanish**: Beginner <br>
+
+## 👨🏻‍🎓 Education and Archived History
+
+**12-week Software Engineering Immersive** <br>
+A three month full-time immersive course focused on client and server side web development (JavaScript primarily, with some Ruby)<br>
+[General Assembly](https://generalassemb.ly/) - Melbourne, Australia _(May 2021 - July 2021)_ <br>
+
+**Diploma of Education (Teaching)**<br>
+La Trobe University - Melbourne, Australia _(2010 - 2011)_
+
+**Bachelor of Arts**<br>
+Monash University - Melbourne, Australia _(2004 - 2007)_
+<br>
 
 _Last updated: 2 Nov 2023_
